@@ -1,0 +1,5 @@
+string command
+geometry_msgs/Pose wpose
+---
+int32 success
+geometry_msgs/Pose wpose
